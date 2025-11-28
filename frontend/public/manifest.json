@@ -1,0 +1,34 @@
+{
+  "short_name": "UnAI",
+  "name": "UnAI - Deepfake Detection & Image Regeneration",
+  "description": "Advanced AI-powered platform for detecting deepfakes and regenerating authentic images",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#20b2aa",
+  "background_color": "#0f0f0f",
+  "categories": ["productivity", "utilities", "photo"],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "type": "image/png",
+      "sizes": "1280x720"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+models/
+*.pth
+*.h5
+.env
