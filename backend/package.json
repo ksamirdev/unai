@@ -8,8 +8,17 @@
     "dev": "nodemon server.js",
     "test": "jest"
   },
-  "keywords": ["deepfake", "detection", "AI", "image-processing"],
-  "authors": ["Varun Kumar", "Bhaumik", "Krish"],
+  "keywords": [
+    "deepfake",
+    "detection",
+    "AI",
+    "image-processing"
+  ],
+  "authors": [
+    "Samir Kumar Gupta",
+    "Aditya Gaur",
+    "Nishant Kumar"
+  ],
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
